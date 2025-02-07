@@ -1,0 +1,9 @@
+D:\SOF_2051\TB00407_PhamVanTri\DAL_QLBH\bin\Debug\DAL_QLBH.dll
+D:\SOF_2051\TB00407_PhamVanTri\DAL_QLBH\bin\Debug\DAL_QLBH.pdb
+D:\SOF_2051\TB00407_PhamVanTri\DAL_QLBH\bin\Debug\DTO_QLBH.dll
+D:\SOF_2051\TB00407_PhamVanTri\DAL_QLBH\bin\Debug\DTO_QLBH.pdb
+D:\SOF_2051\TB00407_PhamVanTri\DAL_QLBH\obj\Debug\DAL_QLBH.csproj.AssemblyReference.cache
+D:\SOF_2051\TB00407_PhamVanTri\DAL_QLBH\obj\Debug\DAL_QLBH.csproj.CoreCompileInputs.cache
+D:\SOF_2051\TB00407_PhamVanTri\DAL_QLBH\obj\Debug\DAL_QLBH.csproj.Up2Date
+D:\SOF_2051\TB00407_PhamVanTri\DAL_QLBH\obj\Debug\DAL_QLBH.dll
+D:\SOF_2051\TB00407_PhamVanTri\DAL_QLBH\obj\Debug\DAL_QLBH.pdb

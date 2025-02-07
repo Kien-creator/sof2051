@@ -1,0 +1,6 @@
+D:\SOF_2051\TB00407_PhamVanTri\DTO_QLBH\bin\Debug\DTO_QLBH.dll
+D:\SOF_2051\TB00407_PhamVanTri\DTO_QLBH\bin\Debug\DTO_QLBH.pdb
+D:\SOF_2051\TB00407_PhamVanTri\DTO_QLBH\obj\Debug\DTO_QLBH.csproj.AssemblyReference.cache
+D:\SOF_2051\TB00407_PhamVanTri\DTO_QLBH\obj\Debug\DTO_QLBH.csproj.CoreCompileInputs.cache
+D:\SOF_2051\TB00407_PhamVanTri\DTO_QLBH\obj\Debug\DTO_QLBH.dll
+D:\SOF_2051\TB00407_PhamVanTri\DTO_QLBH\obj\Debug\DTO_QLBH.pdb
